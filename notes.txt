@@ -1,0 +1,5 @@
+https://discuss.haiku-os.org/t/how-i-use-haiku-64bit-every-day-on-a-2007-imac-core-2-duo-20/8262
+
+Queria usar mi nueva (vieja) maquina con Haiku OS para trabajar en un proyecto con el generador de paginas estaticas Nikola. pero  en Haiku 32 bit Nightly no  instala Nikola en un virtualenv de Python 3.6, da un error de compilacion de Pillow. Podria trabjar con Pillow para ver si desde FreeBSD lo puedo portar a Haiku
+
+Pensando en presentar Haiku en FLISOL 2020: Esquema de presentacion - Desarrollar la presentacion y presentar en Haiku - Imagenes de VirtualBox, Qemu, ISOs, discos USB - Un sueter t-shirt con el logo de Haiku - Como beneficiar a Haiku presentandolo en FLISOL
